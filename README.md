@@ -1,3 +1,5 @@
+Just python 2.7 version (plus some beautification) of:
+
 Concurrency Live - PyCon 2015
 =============================
 
